@@ -28,7 +28,7 @@ const listingSchema = mongoose.Schema({
         },
         coordinates: {
           type: [Number],
-          required: true
+         required: true
         }
       }
 });

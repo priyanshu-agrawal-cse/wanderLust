@@ -89,5 +89,9 @@ align-items: space-evenly;
 
 #map{
     height: 400px;
-    width: 80vh;
+    width: 30rem;
+}
+.topWhite{
+    background-color: white !important;
+    z-index: 20;
 }
