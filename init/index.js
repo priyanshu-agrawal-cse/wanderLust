@@ -13,7 +13,7 @@ main()
   });
 
 async function main() {
-  await mongoose.connect(MONGO_URL);
+  await mongoose.connect("mongodb+srv://bt23cs006:U0LFgOrPrM4Lqik3@cluster0.imm5g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
 }
 
 const initDB = async () => {
