@@ -1,5 +1,7 @@
 🌍 WanderLust
 
+deployed link :- https://wanderlust-2-0cfo.onrender.com/
+
 A Scalable Property Listing Platform
 
 📌 Overview
